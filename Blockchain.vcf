@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Sperax
+N;CHARSET=UTF-8:Sperax;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;2180 Sand Hill Road Ste 170;Menlo Park;California;94025
+ ;USA
+EMAIL:contact@sperax.io
+ORG;CHARSET=UTF-8:Sperax
+URL:http://sperax.io
+END:VCARD
